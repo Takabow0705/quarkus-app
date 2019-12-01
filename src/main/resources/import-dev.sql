@@ -1,0 +1,1 @@
+insert into quarkus_main.user_master (id,user_name,mail_address,address) values (1001,'Bean', 'bean@example.com', 'Bean City');
